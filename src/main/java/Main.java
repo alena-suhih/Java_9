@@ -1,3 +1,6 @@
+import ru.netology.Java_9.Data.FormDate;
+import ru.netology.Java_9.Data.Post;
+
 public class Main {
     public static void main(String[] args) {
         Post post = new Post();
